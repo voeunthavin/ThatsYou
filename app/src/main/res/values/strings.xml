@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ThatsYou</string>
+    <string name="start_stop">Start</string>
+    <string name="The_Service_is_Running_or_Stop">Start the service</string>
+</resources>
